@@ -20,7 +20,7 @@ params:
   keywords: [Blog]
   author: adminsguru
   # author: ["Me", "You"] # multiple authors
-  images: [""]
+  images: ["/rhel8-cover.png"]
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
