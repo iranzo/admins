@@ -75,14 +75,6 @@ menu:
       name: blog
       url: /blog/
       weight: 20
-    - identifier: terms
-      name: terms
-      url: /terms/
-      weight: 20
-    - identifier: tags
-      name: tags
-      url: /tags/
-      weight: 30
     - identifier: search
       name: search
       url: /search
