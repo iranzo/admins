@@ -19,8 +19,8 @@ lastmod: "2021-09-06T12:05:00.531Z"
 
 After some time working on it with my colleagues Miguel and Scott, we've finally made it thanks to the support from our families and Packt, as well as several members of RH teams that gave the clearance to get it out!
 
-[![Red Hat Enterprise Linux 8 Administration cover](/rhel8-cover.png)](https://s.iranzo.io/rhel8)
+[![Red Hat Enterprise Linux 8 Administration cover](/rhel8-cover.png)](https://s.iranzo.io/rhzon)
 
-Available at Amazon: [Red Hat Enterprise Linux 8 Administration](https://s.iranzo.io/rhel8)
+Available at Amazon: [Red Hat Enterprise Linux 8 Administration](https://s.iranzo.io/rhzon)
 
 Hope you like it!
