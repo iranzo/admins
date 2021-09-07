@@ -7,6 +7,7 @@ enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
+GoogleAnalytics: G-TN16M48233
 
 minify:
   disableXML: true
@@ -23,7 +24,6 @@ params:
   images: ["/rhel8-cover.png"]
   defaultTheme: auto # dark, light
   disableThemeToggle: false
-  GoogleAnalytics: G-TN16M48233
 
   ShowReadingTime: true
   ShowShareButtons: true
