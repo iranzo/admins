@@ -23,6 +23,7 @@ params:
   images: ["/rhel8-cover.png"]
   defaultTheme: auto # dark, light
   disableThemeToggle: false
+  GoogleAnalytics: G-TN16M48233
 
   ShowReadingTime: true
   ShowShareButtons: true
