@@ -7,6 +7,10 @@ tags:
   - Packt Publishing
   - system administration
   - RHCSA
+  - CentOS
+  - AlmaLinux
+  - Rocky
+  - Linux
 layout: post
 date: "2021-08-11 00:00:00 +0100"
 comments: true
@@ -14,7 +18,8 @@ category: tech
 description: RHEL8 System Administration book coauthored
 lang: en
 slug: rhel8-administration
-lastmod: "2021-09-06T12:05:00.531Z"
+modified: 2021-09-22T08:57:09.554Z
+draft: false
 ---
 
 After some time working on it, we've finally made it thanks to the support from our families and Packt, as well as several members of RH teams that gave the clearance to get it out!
