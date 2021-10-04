@@ -35,3 +35,5 @@ A very important new part in RHEL 8 was how containers were supported with the n
 Once the content was ready it was time to wrap it up. We did a full extra review with the final "builds" of the book cleaning up last typos, ensuring images had a nice resolution and all formatting was correctly applied. The cover image had to be selected and I thought about connecting things so I proposed an picture I tooks ome years ago, while in Brussels, of the [Atomium](https://atomium.be/). I suggested that to Pablo and Scott who liked the idea. We suggested it to the editorial team at Packt and they also liked it, moveing ahead at full speed to include it and provide initial mock-ups of the cover. I provided to pics so, we chose the one that suited the best. 
 Now the book is [available in Amazon](https://s.admins.guru/buyonamazon) to pre-purchase an it's ready to be released on November 11th 2021. Hope you will enjoy it and it will help many people get started in the technology field that I love so much.
 
+[![Red Hat Enterprise Linux 8 Administration cover](/rhel8-cover.png)](https://s.admins.guru/buyonamazon)
+
