@@ -1,6 +1,15 @@
 ---
 title: The experience of writing a book
-tags: foss, RHEL, book, Packt Publishing, system administration, RHCSA, writing a book
+tags:
+  [
+    foss,
+    RHEL,
+    book,
+    Packt Publishing,
+    system administration,
+    RHCSA,
+    writing a book,
+  ]
 layout: post
 date: 2021-09-15 00:00:00 +0100
 comments: true
