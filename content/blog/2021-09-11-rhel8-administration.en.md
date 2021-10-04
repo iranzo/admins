@@ -1,7 +1,7 @@
 ---
 author: iranzo
 title: "[Book] Red Hat Enterprise Linux 8 Administration"
-tags: foss, RHEL, book, Packt Publishing, system administration, RHCSA
+tags: [foss, RHEL, book, Packt Publishing, system administration, RHCSA]
 layout: post
 date: 2021-09-11 00:00:00 +0100
 comments: true
