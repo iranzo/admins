@@ -1,5 +1,5 @@
 ---
-title: "[PACKT] Red Hat Enterprise Linux 8 Administration"
+title: "The story behind RHEL8 System Administration book"
 tags:
   - foss
   - RHEL
