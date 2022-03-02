@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>foss on admins.guru</title>
+    <link>https://admins.guru/tags/foss/</link>
+    <description>Recent content in foss on admins.guru</description>
+    <image>
+      <url>https://admins.guru/rhel8-cover.png</url>
+      <link>https://admins.guru/rhel8-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 03 Oct 2021 10:00:00 +0100</lastBuildDate><atom:link href="https://admins.guru/tags/foss/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Book] The story behind RHEL8 System Administration book</title>
+      <link>https://admins.guru/blog/2021-10-03_the_story/</link>
+      <pubDate>Sun, 03 Oct 2021 10:00:00 +0100</pubDate>
+      
+      <guid>https://admins.guru/blog/2021-10-03_the_story/</guid>
+      <description>The story behind RHEL8 System Administration book.</description>
+    </item>
+    
+    <item>
+      <title>The experience of writing a book</title>
+      <link>https://admins.guru/blog/2021-09-15-the-experience-of-writing-a-book/</link>
+      <pubDate>Wed, 15 Sep 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://admins.guru/blog/2021-09-15-the-experience-of-writing-a-book/</guid>
+      <description>I wanted to write about my experience (before I forget about it), and as some colleagues asked about it&amp;hellip; here we go&amp;hellip;
+As published in the blog entry RHEL8 Administration book, some colleagues and I wrote a book on RHEL8 administration, which can be bought here.
+Many years ago I started one about Linux, but every time a new paragraph was added, a lot of new &amp;lsquo;TO-DO&amp;rsquo; items were appended as the information growth&amp;hellip; and as it was a &amp;lsquo;solo&amp;rsquo; project, I had other stuff to work on and was parked.</description>
+    </item>
+    
+    <item>
+      <title>[PACKT] Red Hat Enterprise Linux 8 Administration</title>
+      <link>https://admins.guru/blog/rhel8-administration/</link>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://admins.guru/blog/rhel8-administration/</guid>
+      <description>RHEL8 System Administration book coauthored</description>
+    </item>
+    
+  </channel>
+</rss>
