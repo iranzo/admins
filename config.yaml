@@ -45,6 +45,7 @@ params:
     icon: /apple-touch-icon.png
     iconHeight: 35
 
+
   # home-info mode
   # homeInfoParams:
   #     Title: "Hi!"
@@ -81,6 +82,16 @@ menu:
       name: search
       url: /search
       weight: 40
+
+    - identifier: RHEL8
+      name: RHEL8
+      url: https://www.amazon.com/dp/B097PJ3D1M?tag=redken08-20
+      weight: 50
+
+    - identifier: RHEL9
+      name: RHEL9
+      url: https://www.amazon.com/dp/B0BC8XYHCF?tag=redken08-20
+      weight: 60
 
 outputs:
   home: ["HTML", "RSS", "JSON"]
