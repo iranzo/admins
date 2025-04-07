@@ -1,7 +1,6 @@
 ---
 baseURL: "https://admins.guru"
 title: admins.guru
-paginate: 5
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -9,6 +8,10 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 GoogleAnalytics: G-TN16M48233
+
+pagination:
+  pagerSize: 5
+
 
 minify:
   disableXML: true
