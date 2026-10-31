@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>[Book] The story behind RHEL8 System Administration book on admins.guru</title>
+    <link>https://admins.guru/blog/2021-10-03_the_story/</link>
+    <description>Recent content in [Book] The story behind RHEL8 System Administration book on admins.guru</description>
+    <image>
+      <title>admins.guru</title>
+      <url>https://admins.guru/rhel8-cover.png</url>
+      <link>https://admins.guru/rhel8-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>en</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://admins.guru/blog/2021-10-03_the_story/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
