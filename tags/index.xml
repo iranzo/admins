@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on admins.guru</title>
+    <link>https://admins.guru/tags/</link>
+    <description>Recent content in Tags on admins.guru</description>
+    <image>
+      <title>admins.guru</title>
+      <url>https://admins.guru/rhel8-cover.png</url>
+      <link>https://admins.guru/rhel8-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 03 Oct 2021 10:00:00 +0100</lastBuildDate>
+    <atom:link href="https://admins.guru/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book</title>
+      <link>https://admins.guru/tags/book/</link>
+      <pubDate>Fri, 14 Oct 2022 00:00:00 +0100</pubDate>
+      <guid>https://admins.guru/tags/book/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Foss</title>
+      <link>https://admins.guru/tags/foss/</link>
+      <pubDate>Fri, 14 Oct 2022 00:00:00 +0100</pubDate>
+      <guid>https://admins.guru/tags/foss/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Packt Publishing</title>
+      <link>https://admins.guru/tags/packt-publishing/</link>
+      <pubDate>Fri, 14 Oct 2022 00:00:00 +0100</pubDate>
+      <guid>https://admins.guru/tags/packt-publishing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RHCSA</title>
+      <link>https://admins.guru/tags/rhcsa/</link>
+      <pubDate>Fri, 14 Oct 2022 00:00:00 +0100</pubDate>
+      <guid>https://admins.guru/tags/rhcsa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RHEL</title>
+      <link>https://admins.guru/tags/rhel/</link>
+      <pubDate>Fri, 14 Oct 2022 00:00:00 +0100</pubDate>
+      <guid>https://admins.guru/tags/rhel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>System Administration</title>
+      <link>https://admins.guru/tags/system-administration/</link>
+      <pubDate>Fri, 14 Oct 2022 00:00:00 +0100</pubDate>
+      <guid>https://admins.guru/tags/system-administration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CentOS</title>
+      <link>https://admins.guru/tags/centos/</link>
+      <pubDate>Sun, 03 Oct 2021 10:00:00 +0100</pubDate>
+      <guid>https://admins.guru/tags/centos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Writing a Book</title>
+      <link>https://admins.guru/tags/writing-a-book/</link>
+      <pubDate>Wed, 15 Sep 2021 00:00:00 +0100</pubDate>
+      <guid>https://admins.guru/tags/writing-a-book/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
